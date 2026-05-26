@@ -1,4 +1,4 @@
-# Olá, eu sou o Lee! 👋
+# Eu sou o Leandro! 
 
 Desenvolvedor em formação, apaixonado por **Backend** e pelo universo **Linux**.  
 Atualmente focado em aprofundar meus conhecimentos em **Python**, construindo uma base sólida para criar soluções robustas e eficientes no Backend.
