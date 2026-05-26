@@ -1,14 +1,17 @@
-# Eu sou o Leandro! 
+# Eu sou o Leandro!
 
-Desenvolvedor em formação, apaixonado por **Backend** e pelo universo **Linux**.  
+**Analista de Suporte** | **Engenheiro de Software em formação**
+
+Apaixonado por **Backend** e pelo universo **Linux**.  
 Atualmente focado em aprofundar meus conhecimentos em **Python**, construindo uma base sólida para criar soluções robustas e eficientes no Backend.
 
 ---
 
 ## 🚀 Sobre mim
 
+- 💼 Analista de Suporte & Engenheiro de Software em formação
 - 🐍 Aprendendo e me aprofundando em **Python**
-- 🖥️ Entusiasta de **Linux** e automação de sistemas
+- 🖥️ Entusiasta de **Linux**, redes e automação de sistemas
 - 🔧 Interesse em desenvolvimento **Backend**: APIs, servidores e bancos de dados
 - 📚 Sempre estudando — acredito que o aprendizado contínuo é o melhor investimento
 
@@ -20,6 +23,14 @@ Atualmente focado em aprofundar meus conhecimentos em **Python**, construindo um
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Leeokz/Leeokz/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
 
 ---
 
